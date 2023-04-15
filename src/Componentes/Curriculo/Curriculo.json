@@ -1,0 +1,22 @@
+{
+    "resumo": "Estudante de tecnologia que busca primeira colocação profissional na área, com experiência em relacionamento com o cliente. Focado no aprimoramento das minhas habilidades profissionais e adaptável as variáveis do ambiente de trabalho. Observador, persistente, sempre aberto ao diálogo e troca de ideias.",
+    "experienciaAcademica": [
+        {
+            "titulo" : "Conclusão do Ensino Médio no Colégio Sagrado Coração",
+            "descricao": "",
+            "dataInicio": "2020",
+            "dataFim": "2022"
+           
+        }
+    ],
+
+    "experienciaProfissional": [
+        {
+            "titulo" : "Vendedor na Case&Cia (Loja de acessórios para celular)",
+            "descricao": "",
+            "dataInicio": "2020",
+            "dataFim": "2021"
+           
+        }
+    ]
+}
